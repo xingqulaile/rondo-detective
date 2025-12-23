@@ -1,0 +1,7 @@
+{
+  "name": "回旋曲侦探 (Rondo Detective)",
+  "description": "一个互动式音乐教育应用，通过莫扎特的《土耳其进行曲》帮助学生识别和理解回旋曲式结构。",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
